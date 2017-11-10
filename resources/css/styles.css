@@ -12,7 +12,7 @@
 .center{
   text-align: center;
 }
-.topSection{
+.backgroundPicture{
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
 }
 
@@ -45,6 +45,8 @@ p{
   margin-right: auto;
 }
 .dimGray{
-  font-size: 11px;
   background-color: dimgray;
+}
+.small{
+  font-size: 11px;
 }
